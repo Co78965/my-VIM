@@ -1,0 +1,2 @@
+Write to new file:  Line 1
+Write to new file: Line 2
